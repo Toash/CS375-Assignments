@@ -1,6 +1,5 @@
-# ignore files within data folder but not the folder itself
-cs375/data/*
-!cs375/data/
+# ignore files within data folder 
+cs375/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
